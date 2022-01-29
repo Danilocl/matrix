@@ -6,9 +6,9 @@ canvas.height = window.innerHeight;
 
 const katakana = 'アァカサタナハマヤャラワガザダバパイィキシチニヒミリヰギジヂビピウゥクスツヌフムユュルグズブヅプエェケセテネヘメレヱゲゼデベペオォコソトノホモヨョロヲゴゾドボポヴッン';
 const latin = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
-const nums = '01';
+const binary = '01';
 
-const alphabet = nums;
+const alphabet = binary;
 
 const fontSize = 16;
 const columns = canvas.width/fontSize;
